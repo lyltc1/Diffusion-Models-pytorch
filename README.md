@@ -20,6 +20,7 @@ This is an easy-to-understand implementation of diffusion models within 100 line
 3. ```python ddpm.py```
 
 ### Conditional Training
+paper: classifier-free diffusion guidance
 1. (optional) Configure Hyperparameters in ```ddpm_conditional.py```
 2. Set path to dataset in ```ddpm_conditional.py```
 3. ```python ddpm_conditional.py```
